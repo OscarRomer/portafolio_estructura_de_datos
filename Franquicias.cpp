@@ -9,7 +9,7 @@ using namespace std;
 
 const int ELEMENTOS = 25;
 
-//Cesar Eduardo Alfaro Parada AP102416
+//Oscar Alejandro Romero Gonzalez
 array<string, ELEMENTOS> franquicias = {
 	"Assassin's Creed", "Battlefield", "Call of Duty",
 	"Diablo", "Dragon Quest", "Fallout", "Final Fantasy",
