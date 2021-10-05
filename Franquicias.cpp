@@ -189,3 +189,5 @@ void buscarFranquicia(){
 	else
 		cout << "Su franquicia no es tan comercial, sus gustos son refinados" << endl;
 }
+//Oscar Romero 
+//RG101115
